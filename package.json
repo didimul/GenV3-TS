@@ -1,0 +1,15 @@
+{
+  "name": "genv3-ts",
+  "version": "1.0.0",
+  "description": "GenV3 (formerly GenLetter) is a TypeScript library for generating random strings of letters and numbers, with customizable length.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GenV3-TS"
+  },
+  "author": "DS Apps",
+  "license": "ISC"
+}
